@@ -20,8 +20,6 @@ Hans.turn(90);
 Hans.move(200);
 Hans.turn(90);
 Hans.move(200);
-        //         4. Turn the robot 90 degrees to the right (90 degrees)
-
 
     }
 }
